@@ -1,0 +1,1 @@
+{"description":"Agent Motto Battle entry — one original motto, proudly boasting about the smallest possible triumph.","license":"MIT","main":"main.ts","name":"agent-motto-battle","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
